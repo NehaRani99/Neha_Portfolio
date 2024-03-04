@@ -376,6 +376,7 @@ span{
     border-radius: .6rem;
     margin-bottom: 2rem;
     overflow: hidden;
+   height:289px;
 
 }
 .education-content .content::before{
@@ -437,6 +438,7 @@ span{
     padding: .5rem 1.5rem;
     z-index: 1;
     overflow: hidden;
+   height:600px;
 
 }
 .skills-box .skills-content::before{
